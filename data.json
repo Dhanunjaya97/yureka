@@ -1,0 +1,55 @@
+{
+  "career":{
+    "info":"Everyone should learn how to code,it teaches you how to think."
+  },
+  "education":[
+    {
+      "Degree":"B.Tech - CSE",
+      "School":"> G Pulliah College Of Engineering and Technology",
+     "data":["> 2019","50%"]
+    },
+{
+      "Degree":"Intermediate",
+      "School":"> Sri Chaitanya College",
+      "data":["> 2015","85%"]
+    },
+    {
+      "Degree":"S.S.C",
+      "School":"> Sj.Joseph's English School",
+        "data":["> 2013","70%"]
+    }
+
+  ],
+  "skills":[
+    {
+      "name":"Languages",
+      "info":["R","C","JAVA"]
+    },
+    {
+      "name":"Operating Systems",
+      "info":["Ubuntu","Linux","Windows 10"]
+
+    },
+    {
+      "name":"Databases ",
+      "info":["MySQL","Oracle","PDO"]
+    },
+    {
+      "name":"Web Technologies ",
+      "info":["HTML","AJAX","PHP","CSS"]
+    },
+  {
+    "name":"Framework ",
+    "info":[".Net","BootStrap","CodeIgnitor"]
+  },
+  {
+    "name":"Libraries ",
+    "info":["JQuery"]
+  }
+
+
+
+
+
+  ]
+}
